@@ -4,7 +4,7 @@ A TODO list application built with **React**, **Vite**, **TypeScript** and **Tai
 It was made for the *Web Development* training project and covers the four basic CRUD operations.
 Data is saved in the browser's **LocalStorage**, so tasks stay after a page refresh.
 
-**Live demo:** _add your Netlify link here_
+**Live demo:** https://vermillion-taffy-969ee9.netlify.app
 
 ![Screenshot of the TODO App](docs/screenshot.png)
 
